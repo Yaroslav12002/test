@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/test/static/js/main.53928c7b.js",
+    "main.js": "/test/static/js/main.b173701e.js",
     "static/media/SairaStencilOne-Regular.ttf": "/test/static/media/SairaStencilOne-Regular.c46f8f7f28fe894cbc39.ttf",
     "static/media/logo.png": "/test/static/media/logo.4e1b2444565c089672e0.png",
     "index.html": "/test/index.html",
-    "main.53928c7b.js.map": "/test/static/js/main.53928c7b.js.map"
+    "main.b173701e.js.map": "/test/static/js/main.b173701e.js.map"
   },
   "entrypoints": [
-    "static/js/main.53928c7b.js"
+    "static/js/main.b173701e.js"
   ]
 }
