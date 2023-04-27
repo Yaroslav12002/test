@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.js": "/test/static/js/main.53928c7b.js",
+    "static/media/SairaStencilOne-Regular.ttf": "/test/static/media/SairaStencilOne-Regular.c46f8f7f28fe894cbc39.ttf",
+    "static/media/logo.png": "/test/static/media/logo.4e1b2444565c089672e0.png",
+    "index.html": "/test/index.html",
+    "main.53928c7b.js.map": "/test/static/js/main.53928c7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.53928c7b.js"
   ]
 }
